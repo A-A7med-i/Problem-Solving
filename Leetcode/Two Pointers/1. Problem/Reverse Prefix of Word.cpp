@@ -2,6 +2,13 @@
 
 using namespace std;
 
+/**
+ * Reverses the prefix of a given word up to the first occurrence of a specified character.
+ *
+ * @param word The input word to be processed.
+ * @param ch The character to search for in the word.
+ * @return The modified word with the prefix reversed.
+ */
 class Solution
 {
 public:
