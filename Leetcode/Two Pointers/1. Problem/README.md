@@ -28,3 +28,6 @@ We can solve this problem using a two-pointer technique:
 
 3. Return the Result:
    - Return the modified `word` string.
+
+## Problem Link:
+[Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/description/)
