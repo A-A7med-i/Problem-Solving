@@ -40,9 +40,6 @@ The solution uses a three-pointer approach to iterate through the array and find
 
 The time complexity of the solution is O(n^3) in the worst case, where n is the length of the input array.
 
-## Space Complexity
-
-The space complexity is O(n), used for storing unique triplets in the set.
 
 
 ## Problem Link:
