@@ -1,3 +1,3 @@
 #!/bin/bash
 
-uniq -c | awk '{$1=$1;print $1" "$2}'
+uniq -c | tr -s ' ' | sed 's/^ *//'
