@@ -1,3 +1,3 @@
 #!/bin/bash
 
-grep -i "\bthe\b"
+grep "\bthe\b"
